@@ -11,7 +11,12 @@
     <title>主页</title>
 </head>
 <style>
-
+    #right{
+        width: 80%;
+        height: 70%;
+        border: solid rebeccapurple;
+        float: right;
+    }
 </style>
 <body>
 <%@include file="top.jsp"%>
