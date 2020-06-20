@@ -14,7 +14,12 @@
         border: solid fuchsia;
         margin-bottom: 35px;
     }
-
+    #right{
+        width: 80%;
+        height: 70%;
+        border: solid rebeccapurple;
+        float: right;
+    }
 </style>
 <body>
 <div id="top">头部123</div>
